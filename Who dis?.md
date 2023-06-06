@@ -1,17 +1,19 @@
 ---
 title: "Who dis?"
-updated: 2023-06-06T19:16:47+05:30
+updated: 2023-06-07T00:52:00+05:30
 created: 2023-05-27T15:41:00+05:30
 ---
 
 
 Hello, Rhitik here! 👋🏼
 
+![drawing|400](images/rhitik.jpg)
+
 First things first, I use avatars for identity. Let me put a face to the name. Here is Rhitik, with Hritik Roshan,
 
 <center>
 
-![drawing|400](public/images/rhitik.jpg)
+![drawing|400](images/rhitik.jpg)
 
 </center>
 
@@ -44,18 +46,19 @@ email: rhitikbhatt [at] gmail [dot] com
 
 # FAQs that no one asked for
 
+
 > Have I seen you before?
 
 <center style="display:flex">
 
 <div>
 
-![drawing|400](public/images/rhitik.jpg)
+![drawing|400](images/rhitik.jpg)
 
 </div>
 <div>
 
-![drawing|400](public/images/rhitik.jpg)
+![drawing|400](images/rhitik.jpg)
 
 </div>
 
