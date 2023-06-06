@@ -1,7 +1,7 @@
 ---
 title: Music
 created: 2023-05-27T15:22:55+05:30
-updated: 2023-06-07T00:38:02+05:30
+updated: 2023-06-07T01:09:49+05:30
 ---
 
 
@@ -12,9 +12,11 @@ What kind of music do you like? I keep moving from platfrom to the other
 # Spotify 🎸
 What kind of music are you into?
 
-[[public/Music#Punjabi|Punjabi]]
+[[Music#Punjabi|Punjabi]]
+
 [[#EDM]]
-[[public/Who dis?|Who dis?]]
+
+[[Who dis?|Who dis?]]
 
 ## Punjabi
 
