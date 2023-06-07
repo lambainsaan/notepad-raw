@@ -1,7 +1,7 @@
 ---
 title: Music
 created: 2023-05-27T15:22:55+05:30
-updated: 2023-06-07T01:09:49+05:30
+updated: 2023-06-07T07:44:10+05:30
 ---
 
 
@@ -16,7 +16,7 @@ What kind of music are you into?
 
 [[#EDM]]
 
-[[Who dis?|Who dis?]]
+[[Who dis|Who dis]]
 
 ## Punjabi
 
