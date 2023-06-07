@@ -1,6 +1,6 @@
 ---
 title: "Who dis?"
-updated: 2023-06-07T07:44:38+05:30
+updated: 2023-06-07T07:49:05+05:30
 created: 2023-05-27T15:41:00+05:30
 ---
 
@@ -22,15 +22,13 @@ I am a Product Developer working w/ [CommerceIQ](https://commerceiq.ai/), helpi
 
 # Wanna chat?
 
-Always on look out for networking, feel free to block a slot on my [calendar](https://calendly.com/rhitik/30min).
+Always on look out for networking, feel free to block a slot on my [calendar](https://calendly.com/rhitik/60min).
 
 Additionally I can be found at,
 
 [Twitter](https://twitter.com/lambainsaan)
 
 [LinkedIn](https://www.linkedin.com/in/rhitik-bhatt/)
-
-I do have a [youtube channel](https://www.youtube.com/c/RhitikBhatt/videos) too.
 
 email: rhitikbhatt [at] gmail [dot] com
 
