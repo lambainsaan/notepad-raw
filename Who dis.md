@@ -1,6 +1,6 @@
 ---
 title: "Who dis?"
-updated: 2023-06-07T07:49:05+05:30
+updated: 2023-06-07T08:09:53+05:30
 created: 2023-05-27T15:41:00+05:30
 ---
 
@@ -31,50 +31,3 @@ Additionally I can be found at,
 [LinkedIn](https://www.linkedin.com/in/rhitik-bhatt/)
 
 email: rhitikbhatt [at] gmail [dot] com
-
----
-
-# FAQs that no one asked for
-
-
-> Have I seen you before?
-
-<center style="display:flex">
-
-<div>
-
-![drawing|400](images/rhitik.jpg)
-
-</div>
-<div>
-
-![drawing|400](images/rhitik.jpg)
-
-</div>
-
-</center>
-
-I am Indian [Louis Theroux](https://www.youtube.com/watch?v=FSfRRBNPfFs), so you might have come across him.
-
-> Do I rap?
-
-Not yet, on the radar though.
-
-> Why's [Hrithik](https://en.wikipedia.org/wiki/Hrithik_Roshan) spelled Rhitik, and how do we pronounce it?
-
-There you go,
-
-> Why LambaInsaan?
-
-I am a little too tall, and rest of the story is documented in this tweet,
-
-<center>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LambaInsaan means tall person.<br><br>When I was in High School a small kid called out to his friend, &quot;Dekho wo kitna Lamba Insaan hai&quot; (Look, how tall is that guy!), pointing towards me, and that day my friend a new Twitter handle was born. <a href="https://t.co/n232DMfh4G">https://t.co/n232DMfh4G</a></p>&mdash; Rhitik Bhatt (@LambaInsaan) <a href="https://twitter.com/LambaInsaan/status/1040835897111920642?ref_src=twsrc%5Etfw">September 15, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</center>
-
-
----
-
-Watchout this space for podcasts, newsletters, and blogs. To be launched pretty soon. :)
