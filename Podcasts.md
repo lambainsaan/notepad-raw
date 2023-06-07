@@ -1,12 +1,12 @@
 ---
 title: Podcasts 🎧
 created: 2023-06-07T09:36:46+05:30
-updated: 2023-06-07T09:37:48+05:30
+updated: 2023-06-07T09:43:10+05:30
 ---
 
-# Podcasts
 
-# Week of 11th June
+
+## Week of 11th June
 
 ## [Practical AI: Machine Learning, Data Science - Creating instruction tuned models](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3ByYWN0aWNhbGFpL2ZlZWQ/episode/Y2hhbmdlbG9nLmNvbS83LzIwODE?sa=X&ved=0CAIQuIEEahcKEwiwu628orD_AhUAAAAAHQAAAAAQCg)
 
