@@ -7,11 +7,7 @@ updated: 2023-06-09T22:54:55+05:30
 
 Hello! :)
 
-Checking if it works fine now.
-
-Minor change.
-
-%%I use [Obsidian](https://obsidian.md/) to document my life, it is my notepad of my life.
+I use [Obsidian](https://obsidian.md/) to document my life, it is my notepad of my life.
 
 I have made part of my life public. Because why not? 🙂
 
@@ -23,8 +19,6 @@ Read up about me at [[Who dis]]
 
 Listen to my favourite songs [[Music]]
 
-
-
 [[Training My First AI Model]]
 
 
@@ -33,4 +27,4 @@ Listen to my favourite songs [[Music]]
 [[Courses|Courses]]
 
 
-[[Obsidian]]%%
+[[Obsidian]]
