@@ -1,8 +1,7 @@
 ---
 title: Music 🎧
 created: 2023-05-27T15:22:55+05:30
-updated: 2023-06-11T18:42:19+05:30
-draft: true
+updated: 2023-06-11T19:00:06+05:30
 ---
 I listen to music day in and out. I feel it is TOO MUCH!
 
