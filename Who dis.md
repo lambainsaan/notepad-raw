@@ -1,6 +1,6 @@
 ---
 title: "Who dis?"
-updated: 2023-06-09T18:49:21+05:30
+updated: 2023-06-11T18:38:53+05:30
 created: 2023-05-27T15:41:00+05:30
 ---
 
@@ -17,6 +17,10 @@ First things first, I use avatars for identity. Let me put a face to the name. H
 
 
 I am a Product Developer working w/ [CommerceIQ](https://commerceiq.ai/), helping e-commerce brands increase their market share. Previously I have worked with [Rivet Labs](https://rivetlabs.io/) as their first employee, helping brands forecasting their financials. And I started it all with another early stage startup [Skylark Drones](https://skylarkdrones.com/) as a full stack intern.
+
+---
+[[public/Music|My Fav Music 🎶]]
+
 
 ---
 
