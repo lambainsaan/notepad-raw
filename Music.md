@@ -1,13 +1,16 @@
 ---
 title: Music 🎧
 created: 2023-05-27T15:22:55+05:30
-updated: 2023-06-11T19:00:06+05:30
+updated: 2023-06-11T22:15:37+05:30
 ---
-I listen to music day in and out. I feel it is TOO MUCH!
+I listen to music day in and out.
 
-When I am in party mood or with my friends I listen to,
+
+Pawri Tym! 🕺🏻💃🏻
 [[Music#Punjabi|Punjabi]]
-When I am working I listen to
+
+
+Work Work 🤫
 [[Music#White Noise 🤍]]
 
 ## Punjabi 🕺🏻
