@@ -8,7 +8,7 @@ I listen to music day in and out. I feel it is TOO MUCH!
 When I am in party mood or with my friends I listen to,
 [[Music#Punjabi|Punjabi]]
 When I am working I listen to
-[[public/Music#White Noise 🤍]]
+[[Music#White Noise 🤍]]
 
 ## Punjabi 🕺🏻
 
