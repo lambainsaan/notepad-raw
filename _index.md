@@ -10,5 +10,3 @@ Hello! :)
 I use [Obsidian](https://obsidian.md/) to document my life, it is my notepad of my life.
 
 More about me at [[Who dis|Who dis]].
-
-[[Training My First AI Model|Training My First AI Model]]
