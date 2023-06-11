@@ -1,7 +1,7 @@
 ---
 title: Training my first AI Model 🤖
 created: 2023-06-07T09:58:02+05:30
-updated: 2023-06-11T23:36:21+05:30
+updated: 2023-06-11T23:40:55+05:30
 ---
 
 Let me take you on a journey through training of an AI model.
@@ -19,7 +19,10 @@ At times, you need to follow up on messages, let's say I had a conversation with
 > *crickets* end of the day passes
 >
 >
-> *crickets* summer arrives
+> 🦗 *crickets* 🦗 
+>
+>
+> summer arrives
 >
 >
 > Rhitik: Hey Rosh, do we have any update on the water cooler conversation?
