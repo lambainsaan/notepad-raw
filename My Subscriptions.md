@@ -1,6 +1,6 @@
 ---
 created: 2023-06-11T22:32:24+05:30
-updated: 2023-06-11T22:42:51+05:30
+updated: 2023-06-11T22:51:31+05:30
 ---
 # 1Password
 
@@ -19,3 +19,15 @@ Some Alternatives,
 LastPass has been part of a breach lately.
 
 Apple's Keychain is good, but only if you are heavily integrated into the Apple ecosystem. It doesn't have an authenticator, and great out of the box integrations with browsers.
+
+# Github Copilot 🦾
+
+If you are heavily integrated into VSCode as I am, then it is a must-buy subscription.
+
+ChatGPT is much more powerful, but ChatGPT requires you to context switch from your IDE to browser, not very convenient. 
+
+The recent launch of CopilotX is revolutionary. 90% of my code is being written by Copilot nowadays. With CopilotX you have access to a ChatGPT like interface with a click of a shortcut. CopilotX knows the file that you are coming from and if you ask it some question, it provides answer based on the context you came in from.
+
+You are bound to be surprised! 🤯
+
+
