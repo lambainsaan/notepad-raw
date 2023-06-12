@@ -1,7 +1,7 @@
 ---
 title: Training my first AI Model 🤖
 created: 2023-06-07T09:58:02+05:30
-updated: 2023-06-12T08:46:25+05:30
+updated: 2023-06-12T08:55:04+05:30
 ---
 
 Let me take you on a journey through training of an AI model.
@@ -51,5 +51,17 @@ What we will be doing?
 
 ## Figuring out data source
 
-To find out where can I find such data, I asked a question on reddit. Fetching the data from communities at [Linen](https://www.linen.dev/).
+What kind of data I want?
+
+**Criteria for data**
+1. Concise conversations - I don't want to train the model on emails. Because my end goal is to use it on slack data.
+2. Non-automated - I don't want conversations with chatbots.
+3. Multi-user - I want multiple users to be part of the data.
+4. Threaded - What is being replied to should be apparent from data.
+
+Immediately, I thought of using some of the discord/slack community's data that I am part of. But I didn't have access to install an app to get the data out of discord.
+
+I tried To find out where can I find such data, I asked a question on [reddit](https://www.reddit.com/r/datasets/comments/144ei5b/any_dataset_of_threaded_conversations_of_everyday/).
+
+Fetching the data from communities at [Linen](https://www.linen.dev/).
 
