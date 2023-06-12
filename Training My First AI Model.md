@@ -1,7 +1,7 @@
 ---
 title: Training my first AI Model 🤖
 created: 2023-06-07T09:58:02+05:30
-updated: 2023-06-12T08:55:04+05:30
+updated: 2023-06-12T09:00:43+05:30
 ---
 
 Let me take you on a journey through training of an AI model.
@@ -59,7 +59,8 @@ What kind of data I want?
 3. Multi-user - I want multiple users to be part of the data.
 4. Threaded - What is being replied to should be apparent from data.
 
-Immediately, I thought of using some of the discord/slack community's data that I am part of. But I didn't have access to install an app to get the data out of discord.
+**Data Discovery**
+Immediately, I thought of using some of the discord/slack community's data that I am part of. But I didn't have access to install an app to get the data out of those communities.
 
 I tried To find out where can I find such data, I asked a question on [reddit](https://www.reddit.com/r/datasets/comments/144ei5b/any_dataset_of_threaded_conversations_of_everyday/).
 
