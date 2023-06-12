@@ -1,7 +1,7 @@
 ---
 title: Training my first AI Model 🤖
 created: 2023-06-07T09:58:02+05:30
-updated: 2023-06-11T23:40:55+05:30
+updated: 2023-06-12T08:46:25+05:30
 ---
 
 Let me take you on a journey through training of an AI model.
@@ -39,7 +39,17 @@ As the title suggests this is my first dig at training a model. I don't have ver
 
 **This is my first step!**
 
+What we will be doing?
 
-## Day 1
+1. Figure out a data source.
+2. Bring in the data.
+3. Clean up data and prepare for training.
+4. Train model.
+5. Evaluate.
+6. Loop back to 3 if we are not getting above 90% accuracy
 
-Fetching Data
+
+## Figuring out data source
+
+To find out where can I find such data, I asked a question on reddit. Fetching the data from communities at [Linen](https://www.linen.dev/).
+
