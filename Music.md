@@ -7,11 +7,14 @@ I listen to music day in and out.
 
 
 Pawri Tym! 🕺🏻💃🏻
-[[Music#Punjabi|Punjabi]]
+
+- [[Music#Punjabi|Punjabi]]
 
 
 Work Work 🤫
-[[Music#White Noise 🤍]]
+
+- [[Music#White Noise 🤍 | White Noise]]
+
 
 ## Punjabi 🕺🏻
 
