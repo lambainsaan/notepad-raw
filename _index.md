@@ -1,8 +1,8 @@
 ---
 title: 🪴 Rhitik's Notepad
 enableToc: false
-created: 2023-05-27T15:53:34+05:30
-updated: 2023-06-11T23:33:25+05:30
+created: 2023-05-27T11:23:34+01:00
+updated: 2023-06-27T15:28:09+01:00
 ---
 
 Hello! :)
