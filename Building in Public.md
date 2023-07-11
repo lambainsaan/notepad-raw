@@ -1,7 +1,7 @@
 ---
 title: Building in Public 📢
-created: 2023-06-07T05:28:36+01:00
-updated: 2023-06-27T15:28:09+01:00
+created: 2023-06-07T09:58:36+05:30
+updated: 2023-07-11T19:14:30+05:30
 draft: true
 ---
 
