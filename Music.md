@@ -11,17 +11,18 @@ I listen to music day in and out.
 The music that I start my day with.
 
 <details>
-  <summary> ### Deep dive into each song.</summary>
+  <summary>Story behind each song in the playlist</summary>
   
   **Harder, Better, Faster, Stronger**
 -_Daft Punk_
 
-Simple lyrics. Powerful lyrics. Helps me center in the morning, and focus on working harder, better the day before, quickly churning out more and more work, and following all these will make me strong. This song just pumps up energy in me.
+Simple, powerful lyrics. Helps me center in the morning. Focus on working harder. Better the day before, quickly churning out more and more work, and following all these will make me strong. This song just pumps up energy in me.
 
 **Jiggle Jiggle**
 -_Louis Theroux_
 
-I love Louis Theroux. Plus I like this song. It is a rap but a moral one, you don't come across such songs daily, I like the meaning of it.
+I love Louis Theroux. Plus I like this song. This is where I am in my journey right now. My money jiggle jiggle at the moment, but I would like for it to wiggle wiggle. It is a rap but a moral one, you don't come across such songs daily. The way Louis denied using the word bit*h in the song, speaks a lot to me about him. I like him and the song. Here is Louis explaining the song,
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w37PVdQr5Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Imagine**
