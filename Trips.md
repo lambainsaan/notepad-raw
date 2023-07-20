@@ -1,12 +1,11 @@
 ---
 title: Trips 🛫
 created: 2023-07-20T22:59:30+05:30
-updated: 2023-07-20T23:10:44+05:30
+updated: 2023-07-20T23:36:56+05:30
 ---
 
-# United Kingdom
-
-June 18th to July 9th 2023
+# United Kingdom 
+_June 18th to July 9th 2023_
 
 Went around Edinburgh, Highlands of Scotland and London.
 
