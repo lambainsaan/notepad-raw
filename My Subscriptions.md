@@ -17,9 +17,9 @@ Breach happens on site A, leads to you getting hacked on other websites.
 
 Some Alternatives,
 
-LastPass has been part of a breach lately.
+LastPass has been part of a breach lately. A security company going through a breach is not acceptable. I have used it in the past when it was free, but I don't think the integrations are as good as 1Password's and so I chose 1Password.
 
-Apple's Keychain is good, but only if you are heavily integrated into the Apple ecosystem. It doesn't have an authenticator, and great out of the box integrations with browsers.
+Apple's Keychain is good, but only if you are heavily integrated into the Apple ecosystem. It doesn't have an authenticator, and great out of the box integrations with browsers. But it is free (you are paying the premium for apple devices though 🤫)!
 
 # Github Copilot 🦾
 
