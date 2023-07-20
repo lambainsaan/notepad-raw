@@ -27,16 +27,16 @@ Additionally I can be found at,
 
 # Bookmarks
 
-## What I am upto?
+### What I am upto?
 
 [[Building in Public|Building in Public 👷🏽]]
 
-## What I like?
+### What I like?
 
 [[Music|Favorite Music 🎶]]
 
 [[Podcasts|Favorite Podcasts 🎙️]]
 
-## Miscellaneous
+### Miscellaneous
 
 [[Trips]]
