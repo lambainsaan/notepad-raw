@@ -1,7 +1,7 @@
 ---
 title: Music 🎧
 created: 2023-05-27T15:22:55+05:30
-updated: 2023-07-20T11:38:14+05:30
+updated: 2023-07-20T11:44:37+05:30
 ---
 I listen to music day in and out.
 
@@ -11,7 +11,8 @@ I listen to music day in and out.
 The music that I start my day with.
 
 <details>
-  <summary>Deep dive into each song.</summary>
+  <summary> ### Deep dive into each song.</summary>
+  
   **Harder, Better, Faster, Stronger**
 -_Daft Punk_
 
@@ -52,6 +53,7 @@ This is a slow song, the only one, just after pumping up so much energy into my 
 
 
 </details>
+
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1rlyg0ha1nYWOnHWvIyyh2?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
