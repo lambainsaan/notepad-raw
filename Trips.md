@@ -1,7 +1,7 @@
 ---
 title: Trips 🛫
 created: 2023-07-20T22:59:30+05:30
-updated: 2023-07-24T23:47:51+05:30
+updated: 2023-07-24T23:50:28+05:30
 ---
 
 # United Kingdom 
@@ -29,4 +29,6 @@ Went around Edinburgh, Highlands of Scotland and London.
 
 <img src="https://onedrive.live.com/embed?resid=39643EE1C00039E0%21191568&authkey=%21ANh2qIH_dFYf5Fs&width=999999&height=660" width="auto" height="660" />
 <img src="https://onedrive.live.com/embed?resid=39643EE1C00039E0%21191562&authkey=%21AJl_ML0BQeaCS7I&width=660&height=999999" width="660" height="auto" />
+
+<img src="https://onedrive.live.com/embed?resid=39643EE1C00039E0%21191517&authkey=%21ACRgDApQgbmheQk&width=999999&height=660" width="auto" height="660" />
 
