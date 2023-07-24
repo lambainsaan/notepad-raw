@@ -1,7 +1,7 @@
 ---
 title: Trips 🛫
 created: 2023-07-20T22:59:30+05:30
-updated: 2023-07-24T23:57:21+05:30
+updated: 2023-07-25T00:02:43+05:30
 ---
 
 # United Kingdom 
@@ -9,7 +9,7 @@ _June 18th to July 9th 2023_
 
 Went around Edinburgh, Highlands of Scotland and London.
 
-![Friends of UK|400](images/PXL_20230704_135949790.MP.jpg)
+
 
 <img src="https://onedrive.live.com/embed?resid=39643EE1C00039E0%21191811&authkey=%21AIWlzjBNttaAbgQ&width=999999&height=660" width="auto" height="660" />
 
@@ -37,4 +37,13 @@ Went around Edinburgh, Highlands of Scotland and London.
 <img src="https://onedrive.live.com/embed?resid=39643EE1C00039E0%21191461&authkey=%21AEfr6fFhxB4JKwQ&width=999999&height=660" width="auto" height="660" />
 
 <img src="https://onedrive.live.com/embed?resid=39643EE1C00039E0%21191452&authkey=%21AEflSOXUysw8Cy8&width=1024&height=999999" width="1024" height="auto" />
+
+<img src="https://onedrive.live.com/embed?resid=39643EE1C00039E0%21191241&authkey=%21AH-taGYyKd1Ntxw&width=999999&height=660" width="auto" height="660" />
+
+
+
+<iframe src="https://onedrive.live.com/embed?resid=39643EE1C00039E0%21191260&authkey=!ALgJqZp_y8IDDZE" width="320" height="600" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+<img src="https://onedrive.live.com/embed?resid=39643EE1C00039E0%21190325&authkey=%21AA4LFKztCWuraKU&width=1024&height=999999" width="1024" height="auto" />
 
