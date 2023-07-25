@@ -1,10 +1,10 @@
 ---
 title: Building in Public 📢
 created: 2023-06-07T09:58:36+05:30
-updated: 2023-07-25T16:08:43+05:30
+updated: 2023-07-26T00:10:14+05:30
 ---
 
-# [[Building In Public/Rhitik's Notepad|Rhitik's Notepad]]
+# [[Building In Public/rhitiks-notepad|rhitiks-notepad]]
 
 A blogging platform that I use to power [lambainsaan.github.io](https://lambainsaan.github.io).
 

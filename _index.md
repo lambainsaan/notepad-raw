@@ -2,7 +2,7 @@
 title: 🪴 Rhitik's Notepad
 enableToc: false
 created: 2023-05-27T15:53:34+05:30
-updated: 2023-07-20T23:55:03+05:30
+updated: 2023-07-25T23:30:38+05:30
 ---
 
 Hello, Rhitik here! 👋🏼
@@ -29,7 +29,7 @@ Additionally I can be found at,
 
 ### What I am upto?
 
-[[Building in Public|Building in Public 👷🏽]]
+[[building-in-public|Building in Public 👷🏽]]
 
 ### What I like?
 
