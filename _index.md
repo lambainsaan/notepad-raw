@@ -29,7 +29,7 @@ Additionally I can be found at,
 
 ### What I am upto?
 
-[[building-in-public|Building in Public 👷🏽]]
+[[building-in-public-md|Building in Public 👷🏽]]
 
 ### What I like?
 
