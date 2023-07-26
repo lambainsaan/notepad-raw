@@ -1,7 +1,7 @@
 ---
 topic: Message Tagger
 created: 2023-07-25T16:08:18+05:30
-updated: 2023-07-26T00:32:03+05:30
+updated: 2023-07-26T09:58:30+05:30
 ---
 
 Message tagger will basically run a pipeline on conversational chatter that comes in from platforms like Slack, Teams.
@@ -46,3 +46,14 @@ What set of questions I ask them? How do I quantify their responses?
 
 
 
+# Day 2 (26th July 2023)
+
+Today I am planning to make calls to my friends. To specifically talk about the pain in messaging tools.
+
+Also, to measure my output I am going to define key objectives for the day, and track those.
+
+I want to,
+
+1. Think about more feature set.
+2. Fixate the final set of questions.
+3. Call up 
