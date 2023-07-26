@@ -2,7 +2,7 @@
 title: 🪴 Rhitik's Notepad
 enableToc: false
 created: 2023-05-27T15:53:34+05:30
-updated: 2023-07-26T20:20:35+05:30
+updated: 2023-07-26T21:44:45+05:30
 ---
 
 Hello, Rhitik here! 👋🏼
@@ -48,3 +48,4 @@ Additionally I can be found at,
 
 [[what-am-i-listening-to |What am I listening to?]]
 
+[[TIL |Today I learned]]
