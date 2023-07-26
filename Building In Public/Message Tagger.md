@@ -1,14 +1,14 @@
 ---
 topic: Message Tagger
 created: 2023-07-25T16:08:18+05:30
-updated: 2023-07-26T20:44:42+05:30
+updated: 2023-07-26T20:50:00+05:30
 ---
 
 Message tagger will basically run a pipeline on conversational chatter that comes in from platforms like Slack, Teams.
 
 It will provide features like,
 
-Tagging - Tagging of user who might be responsible for the incoming message.
+~~Tagging - Tagging of user who might be responsible for the incoming message.~~ this is basically recommendation. To me, it looks more of a recommendation problem, rather than tagging. So I am gonna call it recommendation.
 Tracking - Tracking of messages, reminding the human about something that they might have missed out on.
 Recommendations - What messages might be of interest to you.
 Segregation - Splitting messages in segments, chatter segment, important segment.
@@ -57,4 +57,3 @@ I want to,
 1. Think about more feature set.
 2. Fixate the final set of questions.
 
-s
