@@ -2,7 +2,7 @@
 title: 🪴 Rhitik's Notepad
 enableToc: false
 created: 2023-05-27T15:53:34+05:30
-updated: 2023-07-26T20:07:11+05:30
+updated: 2023-07-26T20:20:35+05:30
 ---
 
 Hello, Rhitik here! 👋🏼
@@ -46,4 +46,5 @@ Additionally I can be found at,
 
 [[daily-words-of-wisdom|Daily words of wisdom 🧙]]
 
-[[what-am-i-listening-to]]
+[[what-am-i-listening-to |What am I listening to?]]
+
