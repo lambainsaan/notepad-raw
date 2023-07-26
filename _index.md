@@ -2,7 +2,7 @@
 title: 🪴 Rhitik's Notepad
 enableToc: false
 created: 2023-05-27T15:53:34+05:30
-updated: 2023-07-26T00:33:42+05:30
+updated: 2023-07-26T09:49:34+05:30
 ---
 
 Hello, Rhitik here! 👋🏼
@@ -36,6 +36,7 @@ Additionally I can be found at,
 [[Music|Favorite Music 🎶]]
 
 [[Podcasts|Favorite Podcasts 🎙️]]
+
 
 ### Miscellaneous
 
