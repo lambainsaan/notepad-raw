@@ -1,7 +1,7 @@
 ---
 title: My Subscriptions
 created: 2023-06-11T22:32:24+05:30
-updated: 2023-08-17T22:21:45+05:30
+updated: 2023-08-17T22:49:42+05:30
 ---
 # 1Password
 
@@ -33,8 +33,31 @@ You are bound to be surprised! 🤯
 
 # Waking Up
 
-I was in Gurgaon, it was evening time, and I used to listen to podcast in the evening. So I asked alexa to play the latest [Tim Ferris Show]() episode. 
+It was eve time and I was in Gurgaon, the sun was setting in, and as usual I asked alexa to play the latest [Tim Ferris Show]() episode. To my delight Sam Harris was one of the guest of that episode, founder of Waking Up, he shared some of the meditations that are offered on the app. These meditations were an eye-opener. They talked about things we take for granted, how we miss most obvious things in plain sight.
 
-I used to think I am the only one struggling with keeping my mind silent, but as I talk to more and more people, I realised everyone in someway struggles with mind, some more some less. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hNcZ-qiy6yc?start=459" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+I didn't subscribe to Waking Up right away. Rhitik being Rhitik tried to fix the problem after it has occurred. It was struggle time a few months after I heard this. I decided it is time to give this app a try. And I jumped on.
+
+I have loved every bit of it!
+
+It features amazing meditations. Sam is the meditation teacher in the beginner series. And there are some other teachers as well, but I have not taken other courses yet.
+
+I have found some meditations hard, like meditation around headlessness, they ask you to look at the world and then look at self--for some reason I am not able to make the switch. Which means I am still early on in the process, and there is a lot to learn.
+
+There is a section around conversations, that is my favourite part. You can think of these as podcasts, with Sam Harris as host and a guest. These guests are informed people, talking about topics ranging from Health, Time Management, Productivity, Consciousness, the list goes on.
+
+They have divided the app into three parts, Theory, Practice, and Life.
+
+I think we all need some care of our beautiful minds.
+
+I invite you to join Waking Up with me.
+
+[Waking Up with Sam Harris - Free 30-Day Trial](https://dynamic.wakingup.com/shareOpenAccess/SC07A7834)
+
+If you can't afford the subscription, you are still welcome, we all need care for our minds. Waking up offers a Scholarship.
+
+[Request for Scholarship](https://app.wakingup.com/scholarship).
 
 # Headspace
