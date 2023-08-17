@@ -1,7 +1,7 @@
 ---
 title: My Subscriptions
 created: 2023-06-11T22:32:24+05:30
-updated: 2023-08-17T21:50:44+05:30
+updated: 2023-08-17T22:21:45+05:30
 ---
 # 1Password
 
@@ -31,4 +31,10 @@ The recent launch of CopilotX is revolutionary. 90% of my code is being written 
 
 You are bound to be surprised! 🤯
 
+# Waking Up
 
+I was in Gurgaon, it was evening time, and I used to listen to podcast in the evening. So I asked alexa to play the latest [Tim Ferris Show]() episode. 
+
+I used to think I am the only one struggling with keeping my mind silent, but as I talk to more and more people, I realised everyone in someway struggles with mind, some more some less. 
+
+# Headspace
