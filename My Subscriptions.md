@@ -1,7 +1,7 @@
 ---
 title: My Subscriptions
 created: 2023-06-11T22:32:24+05:30
-updated: 2023-08-17T22:49:42+05:30
+updated: 2023-08-17T22:51:52+05:30
 ---
 # 1Password
 
@@ -36,7 +36,7 @@ You are bound to be surprised! 🤯
 It was eve time and I was in Gurgaon, the sun was setting in, and as usual I asked alexa to play the latest [Tim Ferris Show]() episode. To my delight Sam Harris was one of the guest of that episode, founder of Waking Up, he shared some of the meditations that are offered on the app. These meditations were an eye-opener. They talked about things we take for granted, how we miss most obvious things in plain sight.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hNcZ-qiy6yc?start=459" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hNcZ-qiy6yc?start=610" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I didn't subscribe to Waking Up right away. Rhitik being Rhitik tried to fix the problem after it has occurred. It was struggle time a few months after I heard this. I decided it is time to give this app a try. And I jumped on.
 
@@ -56,7 +56,7 @@ I invite you to join Waking Up with me.
 
 [Waking Up with Sam Harris - Free 30-Day Trial](https://dynamic.wakingup.com/shareOpenAccess/SC07A7834)
 
-If you can't afford the subscription, you are still welcome, we all need care for our minds. Waking up offers a Scholarship.
+If you can't afford the subscription, you are still welcome, we all need care for our minds. Waking up offers a Scholarship. 💞
 
 [Request for Scholarship](https://app.wakingup.com/scholarship).
 
