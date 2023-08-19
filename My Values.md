@@ -1,6 +1,6 @@
 ---
 created: 2023-07-20T14:23:43+05:30
-updated: 2023-08-18T11:14:28+05:30
+updated: 2023-08-19T13:29:28+05:30
 draft: true
 ---
 The values that I go by are.
