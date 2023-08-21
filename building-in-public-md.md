@@ -1,7 +1,7 @@
 ---
 title: Building in Public 📢
 created: 2023-06-07T09:58:36+05:30
-updated: 2023-08-21T12:17:22+05:30
+updated: 2023-08-21T20:59:56+05:30
 ---
 
 # [[Building In Public/rhitiks-notepad|rhitiks-notepad]]
