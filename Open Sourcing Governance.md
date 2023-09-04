@@ -1,7 +1,8 @@
 ---
 title: Open Sourcing Governance
 created: 2023-09-04T10:25:40+05:30
-updated: 2023-09-04T10:56:11+05:30
+updated: 2023-09-04T14:42:14+05:30
+draft: true
 ---
 
 #WIP
