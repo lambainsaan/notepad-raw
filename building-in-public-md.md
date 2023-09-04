@@ -1,8 +1,12 @@
 ---
 title: Building in Public 📢
 created: 2023-06-07T09:58:36+05:30
-updated: 2023-09-04T09:48:58+05:30
+updated: 2023-09-04T10:41:00+05:30
 ---
+
+# [[Open Sourcing Governance|Open Sourcing Governance]]
+
+A medium for dialogue and reform in India. Building India and world step by step.
 
 # [[Building In Public/rhitiks-notepad|rhitiks-notepad]]
 
