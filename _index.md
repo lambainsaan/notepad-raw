@@ -2,7 +2,7 @@
 title: 🪴 Rhitik's Notepad
 enableToc: false
 created: 2023-05-27T15:53:34+05:30
-updated: 2023-09-01T17:16:53+05:30
+updated: 2023-09-04T09:48:58+05:30
 ---
 
 Hello, Rhitik here! 👋🏼

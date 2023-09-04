@@ -1,11 +1,21 @@
 ---
-topic: Daily wods of wisdom
-title: Daily words of wisdom 🧙
+topic: Words of wisdom
+title: Words of wisdom 😇
 created: 2023-07-26T00:28:45+05:30
-updated: 2023-09-01T17:16:53+05:30
+updated: 2023-09-04T09:57:56+05:30
 ---
 
+# September 4th 2023
+
+#mindfulness #love
+
+Attention is the most basic form of love.
+
+> [Tara Brach](https://www.goodreads.com/quotes/8578059-attention-is-the-most-basic-form-of-love-by-paying)
+
 # July 26th 2023
+
+#work #love
 
 Work like you don't need the money.
 

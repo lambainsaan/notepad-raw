@@ -1,7 +1,7 @@
 ---
 title: Rhitik's Notepad
 created: 2023-07-25T16:05:34+05:30
-updated: 2023-09-01T17:16:53+05:30
+updated: 2023-09-04T09:48:57+05:30
 ---
 
 [GitHub - lambainsaan/notepad-raw](https://github.com/lambainsaan/notepad-raw)
