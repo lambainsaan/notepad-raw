@@ -1,9 +1,12 @@
 ---
+title: Open Sourcing Governance
 created: 2023-09-04T10:25:40+05:30
-updated: 2023-09-04T10:40:32+05:30
+updated: 2023-09-04T10:56:11+05:30
 ---
 
 #WIP
+
+
 
 I have this wild idea, which I sleep on every night.
 
