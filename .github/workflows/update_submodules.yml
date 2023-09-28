@@ -18,6 +18,8 @@ jobs:
       - name: Load secret
         id: load-secret
         uses: 1password/load-secrets-action@v1
+        with:
+          export-env: false
         env:
           GITHUB_NOTEPAD_RAW_TOKEN: op://github-secrets/notepad-raw/credential
 
