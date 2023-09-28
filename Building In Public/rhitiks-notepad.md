@@ -1,12 +1,15 @@
 ---
 title: Rhitik's Notepad
 created: 2023-07-25T16:05:34+05:30
-updated: 2023-09-11T10:34:04+05:30
+updated: 2023-09-18T12:58:44+05:30
+
 ---
 
 [GitHub - lambainsaan/notepad-raw](https://github.com/lambainsaan/notepad-raw)
 
 
 [GitHub - lambainsaan/notepad](https://github.com/lambainsaan/notepad)
+
+![[Assets/Untitled-2023-07-15-2336.svg]]
 
 ![image](images/obsidian_vault_working.png)

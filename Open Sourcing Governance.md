@@ -1,7 +1,7 @@
 ---
 title: Open Sourcing Governance
 created: 2023-09-04T10:25:40+05:30
-updated: 2023-09-11T10:34:04+05:30
+updated: 2023-09-18T00:11:26+05:30
 draft: true
 ---
 
