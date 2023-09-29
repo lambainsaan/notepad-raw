@@ -21,7 +21,7 @@ jobs:
         with:
           export-env: false
         env:
-          GITHUB_NOTEPAD_RAW_TOKEN: op://github-secrets/notepad-raw/credential
+          GITHUB_NOTEPAD_RAW_TOKEN: ${{ secrets.ONE_PASS_SA_TOKEN }}
 
       - name: Checkout notepad repo
         uses: actions/checkout@v2
