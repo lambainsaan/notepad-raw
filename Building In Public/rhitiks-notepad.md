@@ -1,7 +1,7 @@
 ---
 title: Rhitik's Notepad
 created: 2023-07-25T16:05:34+05:30
-updated: 2023-09-18T12:58:44+05:30
+updated: 2023-09-29T23:38:56+05:30
 
 ---
 
@@ -13,3 +13,18 @@ updated: 2023-09-18T12:58:44+05:30
 ![[Assets/Untitled-2023-07-15-2336.svg]]
 
 ![image](images/obsidian_vault_working.png)
+
+
+## Vault
+
+This vault contains my private as well as public notes. This is not public for obvious reasons. 😬
+
+## Notepad Raw
+
+The repository that holds the public notes that I want to share with the world.
+
+Notes are pushed into Notepad Raw after any changes in the public directory in my vault.
+
+## Notepad
+
+The hugo code which hosts [lambainsaan.github.io](https://lambainsaan.github.io). Everytime there is a change in Notepad Raw the public data directory is pushed into the Notepad repo via github action.
