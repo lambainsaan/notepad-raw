@@ -1,13 +1,10 @@
 ---
 title: Open Sourcing Governance
 created: 2023-09-04T10:25:40+05:30
-updated: 2023-09-18T00:11:26+05:30
+updated: 2023-09-30T12:38:35+05:30
 draft: true
 ---
-
-#WIP
-
-
+[Collaborative-Governance · GitHub](https://github.com/Collaborative-Governance)
 
 I have this wild idea, which I sleep on every night.
 
