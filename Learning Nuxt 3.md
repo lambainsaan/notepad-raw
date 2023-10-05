@@ -1,14 +1,13 @@
 ---
 created: 2023-10-05T22:49:47+05:30
-updated: 2023-10-05T23:29:27+05:30
-title: Learning Vue 3
+updated: 2023-10-05T23:36:27+05:30
+title: Learning Nuxt 3
 ---
-New day new framework. I am working on [[building-in-public-md#public/Open Sourcing Governance Open Sourcing Governance|Open Sourcing Governance]]. Given that it is a project will contain data like manifesto, I want it to be SEO compliant. SEO is one of the selling points of Nuxt.
+I'm currently working on [[building-in-public-md#public/Open Sourcing Governance Open Sourcing Governance|Open Sourcing Governance]] a project that will include documents like a manifesto. I want to make sure it's easy for search engines to find, which is a feature of Nuxt.
 
-Plus there is markdown CMS extension for Nuxt called [Nuxt Content](https://content.nuxt.com/). Nuxt content can help a person write documentation using markdown. I can then convert that markdown into a beautiful page.
+Additionally, there's a helpful tool for Nuxt called [Nuxt Content](https://content.nuxt.com/) that allows people to write documents using Markdown. Then, I can turn those Markdown documents into attractive web pages.
 
-And so Nuxt + Nuxt Content it is. You can read more about the benefits of Nuxt [here](https://nuxt.com/docs/getting-started/introduction).
-
+So, I've decided to use Nuxt along with Nuxt Content for this project. If you want to learn more about Nuxt and its benefits, you can check it out [here](https://nuxt.com/docs/getting-started/introduction).
 
 [[nuxt/Paying Attention to detail]]
 
