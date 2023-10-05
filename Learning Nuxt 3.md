@@ -1,7 +1,7 @@
 ---
 created: 2023-10-05T22:49:47+05:30
-updated: 2023-10-05T23:02:43+05:30
-title: Overlooking the details - Vue 3
+updated: 2023-10-05T23:29:27+05:30
+title: Learning Vue 3
 ---
 New day new framework. I am working on [[building-in-public-md#public/Open Sourcing Governance Open Sourcing Governance|Open Sourcing Governance]]. Given that it is a project will contain data like manifesto, I want it to be SEO compliant. SEO is one of the selling points of Nuxt.
 
