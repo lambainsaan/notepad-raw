@@ -1,9 +1,9 @@
 ---
 title: Coding recommendations
 created: 2023-10-06T00:06:10+05:30
-updated: 2023-10-06T00:06:10+05:30
+updated: 2023-10-06T00:11:17+05:30
 ---
-# Use getters over computed where possible
+### Use getters over computed where possible
 
 In the context of Vue.js, which is a popular JavaScript framework for building user interfaces, there are two ways to create reactive properties or values: using getters and using computed properties. Let me explain both concepts and provide examples for better understanding.
 **Getters**:
@@ -52,3 +52,6 @@ The recommendation to use getters (`() => value`) over computed (`computed(() =>
 
 So, if you have a simple calculation or transformation to perform on reactive data, it's recommended to use a getter. If you need a value that automatically updates based on reactive dependencies, then you should use a computed property.
 
+### Setting dynamic titles
+
+`nuxt.config` does not allow the page title to be dynamic. Therefore, it is recommended to use `titleTemplate` in the `app.vue` file to add a dynamic title, which is then applied to all routes of your Nuxt app.
