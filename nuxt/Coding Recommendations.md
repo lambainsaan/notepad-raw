@@ -1,7 +1,7 @@
 ---
 title: Coding recommendations
 created: 2023-10-06T00:06:10+05:30
-updated: 2023-10-06T08:33:20+05:30
+updated: 2023-10-06T08:40:05+05:30
 ---
 ### Use getters over computed where possible
 
@@ -69,3 +69,7 @@ const { data, error } = await useAsyncData(`user:${id.value}`, () => {
 })
 ```
 
+
+# When to use $fetch, useFetch, useAsyncData
+
+The `useFetch` composable is meant to be invoked in setup method or called directly at the top level of a function in lifecycle hooks, otherwise you should use [`$fetch` method](https://nuxt.com/docs/getting-started/data-fetching#fetch).
