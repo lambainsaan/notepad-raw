@@ -1,7 +1,7 @@
 ---
 title: Coding recommendations
 created: 2023-10-06T00:06:10+05:30
-updated: 2023-10-06T08:40:05+05:30
+updated: 2023-10-06T08:43:53+05:30
 ---
 ### Use getters over computed where possible
 
@@ -73,3 +73,31 @@ const { data, error } = await useAsyncData(`user:${id.value}`, () => {
 # When to use $fetch, useFetch, useAsyncData
 
 The `useFetch` composable is meant to be invoked in setup method or called directly at the top level of a function in lifecycle hooks, otherwise you should use [`$fetch` method](https://nuxt.com/docs/getting-started/data-fetching#fetch).
+
+### [Minimize payload size](https://nuxt.com/docs/getting-started/data-fetching#minimize-payload-size)
+
+The `pick` option helps you to minimize the payload size stored in your HTML document by only selecting the fields that you want returned from the composables.
+
+```
+<script setup lang="ts">
+/* only pick the fields used in your template */
+const { data: mountain } = await useFetch('/api/mountains/everest', { pick: ['title', 'description'] })
+</script>
+
+<template>
+  <h1>{{ mountain.title }}</h1>
+  <p>{{ mountain.description }}</p>
+</template>
+```
+
+Copy to clipboard
+
+If you need more control or map over several objects, you can use the `transform` function to alter the result of the query.
+
+```
+const { data: mountains } = await useFetch('/api/mountains', { 
+  transform: (mountains) => {
+    return mountains.map(mountain => ({ title: mountain.title, description: mountain.description }))
+  }
+}
+```
