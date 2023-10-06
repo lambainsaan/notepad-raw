@@ -1,7 +1,7 @@
 ---
 title: Coding recommendations
 created: 2023-10-06T00:06:10+05:30
-updated: 2023-10-06T08:43:53+05:30
+updated: 2023-10-06T08:46:59+05:30
 ---
 ### Use getters over computed where possible
 
@@ -76,6 +76,8 @@ The `useFetch` composable is meant to be invoked in setup method or called dir
 
 ### [Minimize payload size](https://nuxt.com/docs/getting-started/data-fetching#minimize-payload-size)
 
+Recommendation ✅
+
 The `pick` option helps you to minimize the payload size stored in your HTML document by only selecting the fields that you want returned from the composables.
 
 ```
@@ -90,8 +92,6 @@ const { data: mountain } = await useFetch('/api/mountains/everest', { pick: ['ti
 </template>
 ```
 
-Copy to clipboard
-
 If you need more control or map over several objects, you can use the `transform` function to alter the result of the query.
 
 ```
@@ -101,3 +101,25 @@ const { data: mountains } = await useFetch('/api/mountains', {
   }
 }
 ```
+
+
+#### [Refresh and execute](https://nuxt.com/docs/getting-started/data-fetching#refresh-and-execute)
+
+If you want to fetch or refresh data manually, use the `execute` or `refresh` function provided by the composables.
+
+```
+<script setup lang="ts">
+const { data, error, execute, refresh } = await useFetch('/api/users')
+</script>
+
+<template>
+  <div>
+    <p>{{ data }}</p>
+    <button @click="refresh">Refresh data</button>
+  </div>
+</template>
+```
+
+Recommendation ✅
+
+The `execute` function is an alias for `refresh` that works in exactly the same way but is more semantic for cases when the fetch is [not immediate](https://nuxt.com/docs/getting-started/data-fetching#not-immediate).
