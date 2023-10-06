@@ -1,7 +1,7 @@
 ---
 title: Coding recommendations
 created: 2023-10-06T00:06:10+05:30
-updated: 2023-10-06T08:46:59+05:30
+updated: 2023-10-06T09:01:25+05:30
 ---
 ### Use getters over computed where possible
 
@@ -123,3 +123,7 @@ const { data, error, execute, refresh } = await useFetch('/api/users')
 Recommendation ✅
 
 The `execute` function is an alias for `refresh` that works in exactly the same way but is more semantic for cases when the fetch is [not immediate](https://nuxt.com/docs/getting-started/data-fetching#not-immediate).
+
+### [Defining components](https://nuxt.com/docs/getting-started/data-fetching#options-api-support)
+
+Using `<script setup lang="ts">` is the recommended way of declaring Vue components in Nuxt 3.
