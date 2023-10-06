@@ -1,7 +1,7 @@
 ---
 title: Coding recommendations
 created: 2023-10-06T00:06:10+05:30
-updated: 2023-10-06T09:01:25+05:30
+updated: 2023-10-06T09:09:30+05:30
 ---
 ### Use getters over computed where possible
 
@@ -127,3 +127,12 @@ The `execute` function is an alias for `refresh` that works in exactly the s
 ### [Defining components](https://nuxt.com/docs/getting-started/data-fetching#options-api-support)
 
 Using `<script setup lang="ts">` is the recommended way of declaring Vue components in Nuxt 3.
+
+### Use of Ref
+
+Avoid ❌
+Never define `const state = ref()` outside of `<script setup>` or `setup()` function.  
+Such state will be shared across all users visiting your website and can lead to memory leaks!
+
+Recommended ✅
+Instead use `const useX = () => useState('x')`
