@@ -1,7 +1,7 @@
 ---
 title: Coding recommendations
 created: 2023-10-06T00:06:10+05:30
-updated: 2023-10-07T14:23:07+05:30
+updated: 2023-10-07T15:21:58+05:30
 ---
 ### Use getters over computed where possible
 
@@ -150,3 +150,14 @@ Instead use `const useX = () => useState('x')`
   </div>
 </template>
 ```
+
+Recommendation ✅
+```
+<time :title="toTitleDate(date)" :datetime="date">
+  {{ formatDate(date) }}
+</time>
+```
+
+
+
+Functions called inside binding expressions will be called every time the component updates, so they should **not** have any side effects, such as changing data or triggering asynchronous operations.
