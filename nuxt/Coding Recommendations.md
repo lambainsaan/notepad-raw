@@ -1,7 +1,7 @@
 ---
 title: Coding recommendations
 created: 2023-10-06T00:06:10+05:30
-updated: 2023-10-06T09:09:30+05:30
+updated: 2023-10-07T14:23:07+05:30
 ---
 ### Use getters over computed where possible
 
@@ -136,3 +136,17 @@ Such state will be shared across all users visiting your website and can lead to
 
 Recommended ✅
 Instead use `const useX = () => useState('x')`
+
+## [Layout and Transition](https://nuxt.com/docs/api/components/nuxt-layout#layout-and-transition)
+
+`<NuxtLayout />` renders incoming content via `<slot />`, which is then wrapped around Vue’s `<Transition />` component to activate layout transition. For this to work as expected, it is recommended that `<NuxtLayout />` is **not** the root element of the page component.
+
+```
+<template>
+  <div>
+    <NuxtLayout name="custom">
+      <template #header> Some header template content. </template>
+    </NuxtLayout>
+  </div>
+</template>
+```
