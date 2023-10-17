@@ -1,7 +1,8 @@
 ---
 title: Music 🎧
 created: 2023-05-27T15:22:55+05:30
-updated: 2023-10-05T23:27:39+05:30
+
+updated: 2023-10-17T14:44:28+05:30
 ---
 I listen to music day in and out.
 
@@ -17,6 +18,14 @@ The music that I start my day with.
 -_Daft Punk_
 
 Simple, powerful lyrics. Helps me center in the morning. Focus on working harder. Better the day before, quickly churning out more and more work, and following all these will make me strong. This song just pumps up energy in me.
+
+
+**Jogi**
+-_Panjabi MC_
+
+Most energetic song I have heard. There are people hyping in the background + Punjabi beats, abs perfect song. Again, a pumper for energy.
+
+
 
 **Jiggle Jiggle**
 -_Louis Theroux_
