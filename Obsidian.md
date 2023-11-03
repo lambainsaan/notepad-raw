@@ -1,7 +1,7 @@
 ---
 title: Obsidian 🤘🏼
 created: 2023-06-07T00:46:08+05:30
-updated: 2023-11-03T18:50:04+05:30
+updated: 2023-11-03T18:52:09+05:30
 draft: true
 ---
 
