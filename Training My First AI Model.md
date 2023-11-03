@@ -1,7 +1,7 @@
 ---
 title: Training my first AI Model 🤖
 created: 2023-06-07T09:58:02+05:30
-updated: 2023-11-03T18:52:09+05:30
+updated: 2023-11-03T18:53:57+05:30
 ---
 
 Let me take you on a journey through training of an AI model.
