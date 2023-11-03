@@ -1,7 +1,7 @@
 ---
 title: My Subscriptions
 created: 2023-06-11T22:32:24+05:30
-updated: 2023-11-03T18:56:09+05:30
+updated: 2023-11-03T18:59:57+05:30
 ---
 # 1Password
 
