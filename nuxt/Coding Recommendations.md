@@ -1,7 +1,7 @@
 ---
 title: Coding recommendations
 created: 2023-10-06T00:06:10+05:30
-updated: 2023-11-07T10:57:34+05:30
+updated: 2023-11-07T17:54:34+05:30
 ---
 ### Use getters over computed where possible
 
