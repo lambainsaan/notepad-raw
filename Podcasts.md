@@ -1,7 +1,7 @@
 ---
 title: Favourite Podcasts & Talks 🎧
 created: 2023-06-07T09:36:46+05:30
-updated: 2023-11-06T22:00:33+05:30
+updated: 2023-11-07T10:57:34+05:30
 ---
 
 [How to raise money?](https://www.youtube.com/watch?v=EoquIYtjM7w) #startup #funding
