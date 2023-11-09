@@ -1,7 +1,7 @@
 ---
 title: Open Sourcing Governance
 created: 2023-09-04T10:25:40+05:30
-updated: 2023-11-07T17:54:34+05:30
+updated: 2023-11-09T11:24:47+05:30
 draft: true
 ---
 [Collaborative-Governance · GitHub](https://github.com/Collaborative-Governance)
