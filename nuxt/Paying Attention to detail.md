@@ -1,7 +1,7 @@
 ---
 title: Nuxt - Paying attention to detail
 created: 2023-10-05T23:06:47+05:30
-updated: 2023-11-10T11:07:27+05:30
+updated: 2023-11-11T12:30:14+05:30
 ---
 In this note, I will just jot down a few points that are easy to overlook while developing a Nuxt application.
 

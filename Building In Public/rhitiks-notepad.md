@@ -1,7 +1,7 @@
 ---
 title: Rhitik's Notepad
 created: 2023-07-25T16:05:34+05:30
-updated: 2023-11-10T11:07:27+05:30
+updated: 2023-11-11T12:30:14+05:30
 
 ---
 

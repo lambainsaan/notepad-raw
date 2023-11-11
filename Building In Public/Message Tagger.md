@@ -1,7 +1,7 @@
 ---
 topic: Message Tagger
 created: 2023-07-25T16:08:18+05:30
-updated: 2023-11-10T11:07:27+05:30
+updated: 2023-11-11T12:30:14+05:30
 ---
 
 Message tagger will basically run a pipeline on conversational chatter that comes in from platforms like Slack, Teams.
