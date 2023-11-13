@@ -1,6 +1,6 @@
 ---
 created: 2023-10-05T22:49:47+05:30
-updated: 2023-11-11T12:30:14+05:30
+updated: 2023-11-13T10:49:41+05:30
 title: Learning Nuxt 3
 ---
 I'm currently working on [[building-in-public-md#public/Open Sourcing Governance Open Sourcing Governance|Open Sourcing Governance]] a project that will include documents like a manifesto. I want to make sure it's easy for search engines to find, which is a feature of Nuxt.
