@@ -2,7 +2,7 @@
 title: Music 🎧
 created: 2023-05-27T15:22:55+05:30
 
-updated: 2023-11-13T18:00:07+05:30
+updated: 2023-11-20T12:59:54+05:30
 ---
 I listen to music day in and out.
 

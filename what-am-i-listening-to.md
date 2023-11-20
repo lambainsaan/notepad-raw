@@ -1,7 +1,7 @@
 ---
 title: ⏸️ Currently Playing ▶️
 created: 2023-07-26T20:09:33+05:30
-updated: 2023-11-13T18:00:07+05:30
+updated: 2023-11-20T12:59:54+05:30
 ---
 
 | Talk Link                                                                                                                           | Listened On      | Tags                                          | What did I learn?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Social Links                                                                                                                                                                                               |

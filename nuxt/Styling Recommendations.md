@@ -1,6 +1,6 @@
 ---
 created: 2023-10-05T23:47:39+05:30
-updated: 2023-11-13T18:00:07+05:30
+updated: 2023-11-20T12:59:54+05:30
 title: Nuxt - Styling Recommendations
 ---
 
