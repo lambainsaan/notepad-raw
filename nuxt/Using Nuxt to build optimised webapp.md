@@ -1,6 +1,6 @@
 ---
 created: 2023-10-06T08:36:43+05:30
-updated: 2023-11-20T12:59:54+05:30
+updated: 2023-11-22T20:24:56+05:30
 ---
 # Lazy API calls
 > [Data fetching · Lazy](https://nuxt.com/docs/getting-started/data-fetching#lazy)

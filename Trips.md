@@ -1,7 +1,7 @@
 ---
 title: Trips 🛫
 created: 2023-07-20T22:59:30+05:30
-updated: 2023-11-20T12:59:54+05:30
+updated: 2023-11-22T20:24:56+05:30
 ---
 
 # United Kingdom 
