@@ -46,7 +46,7 @@ Additionally I can be found at,
 
 [[daily-words-of-wisdom|Words of wisdom 🧙]]
 
-[[what-am-i-listening-to |What am I listening to?]]
+[[what-am-i-listening-to|What am I listening to?]]
 
 [[publi;c/TIL |Today I learned]]
 

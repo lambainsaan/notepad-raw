@@ -10,9 +10,9 @@ updated: 2023-11-22T20:24:56+05:30
 
 [GitHub - lambainsaan/notepad](https://github.com/lambainsaan/notepad)
 
-![[private/Assets/Untitled-2023-07-15-2336.svg]]
+![[0 private/99 Assets/Untitled-2023-07-15-2336.svg]]
 
-![image](images/obsidian_vault_working.png)
+![image](public/images/obsidian_vault_working.png)
 
 
 ## Vault
