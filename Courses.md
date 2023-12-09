@@ -5,6 +5,6 @@ updated: 2023-11-22T20:24:56+05:30
 draft: true
 ---
 
-Current focus: [[private/Introduction to Transformer Models for NLP|Introduction to Transformer Models for NLP: Using BERT, GPT, and More to Solve Modern Natural Language Processing Tasks]]
+Current focus: [[private/Learning/Introduction to Transformer Models for NLP|Introduction to Transformer Models for NLP: Using BERT, GPT, and More to Solve Modern Natural Language Processing Tasks]]
 
 
