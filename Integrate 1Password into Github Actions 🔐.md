@@ -1,6 +1,6 @@
 ---
 created: 2023-09-29T23:34:44+05:30
-updated: 2023-11-22T20:24:56+05:30
+updated: 2023-12-11T10:54:11+05:30
 title: Integrate 1Password into Github Actions 🔐
 ---
 I push notes from [[Building In Public/rhitiks-notepad#Notepad Raw|Notepad Raw]] to [[Building In Public/rhitiks-notepad#Notepad|Notepad]], for pushing the data from my action in Notepad Raw to Notepad, I need to generate a token. This token needs to be regenerated every once in a while because of expiry. And when the day comes and the token expires, the CI pipeline starts failing.
