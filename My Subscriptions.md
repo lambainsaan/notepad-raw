@@ -1,53 +1,48 @@
 ---
-title: My Subscriptions
+title: Word of mouth
 created: 2023-06-11T22:32:24+05:30
 updated: 2023-12-11T10:54:11+05:30
 ---
-# 1Password
+## 1Password: Safeguarding Your Online Security
 
-Worth it? Oh yes! If you use the same password everywhere, let me tell you my friend, it is quite easy to hack your account.
+Are you still using the same password for every online account? Let me tell you, my friend, it's a risky game. If a breach occurs on one site, it could lead to your accounts on other websites being compromised.
 
-Breach happens on site A, leads to you getting hacked on other websites.
+I used to be guilty of this myself until I stumbled upon [Have I Been Pwned](https://haveibeenpwned.com/), which revealed the extent of breaches my email had been involved in. That wake-up call prompted me to start using a password manager.
 
-> I used to use the same password everywhere in the good old days. Came across [Have I Been Pwned](https://haveibeenpwned.com/)  and it revealed how many breaches my email has been part of, instantly started using password manager.
-> 
-> A few years later I received a spam email, and it contained my old breached password, and they were trying to blackmail me to send them bitcoins. But I had already made a move from that password by then. 🙃
+A few years later, I received a spam email containing an old breached password, with an attempt to blackmail me for bitcoins. Luckily, I had already moved on from that password by then. 🙃
 
-1Password's integrations are amazing! There's also developer API to connect and get secrets from the password store. I can store all my secrets in there and serve up the secrets right to my applications. No need to set up [Vault by HashiCorp](https://www.vaultproject.io/), at least for simple hacks.
+The integrations offered by 1Password are fantastic! With a developer API to connect and retrieve secrets from the password store, it's a convenient solution. Plus, there's no need to set up something like [Vault by HashiCorp](https://www.vaultproject.io/) for basic security needs.
 
-Some Alternatives,
+### Alternatives to Consider:
 
-LastPass has been part of a breach lately. A security company going through a breach is not acceptable. I have used it in the past when it was free, but I don't think the integrations are as good as 1Password's and so I chose 1Password.
+- **LastPass**: While I used it when it was free, recent breaches have made me wary. Its integrations don't match up to 1Password's.
+    
+- **Apple's Keychain**: Good if you're deep in the Apple ecosystem, but lacking in features like an authenticator and seamless browser integrations. Plus, it's technically "free" (if you don't count the premium you're paying for Apple devices). 🤫
+    
 
-Apple's Keychain is good, but only if you are heavily integrated into the Apple ecosystem. It doesn't have an authenticator, and great out of the box integrations with browsers. But it is free (you are paying the premium for apple devices though 🤫)!
+## Waking Up: Nurturing Your Mindfulness
+
+Picture this: It's evening in Gurgaon, the sun is setting, and I'm asking Alexa to play the latest episode of [The Tim Ferris Show](https://chatgpt.com/c/a7230c55-d57b-4cd6-9801-92ce1f036b3a). To my delight, Sam Harris, founder of Waking Up, is a guest. He shares insights into the meditations offered by the app, and they're truly enlightening.
+
+I didn't immediately subscribe to Waking Up. Being my usual self, I tried to fix things only after they became a problem. Months later, as I was struggling mentally I finally decided to give the app a try—and I'm so glad I did.
 
 
-# Waking Up
+The meditations are incredible. Sam himself leads the beginner series, and while I haven't explored other courses yet, I'm thoroughly enjoying my journey.
 
-It was eve time and I was in Gurgaon, the sun was setting in, and as usual I asked alexa to play the latest [Tim Ferris Show]() episode. To my delight Sam Harris was one of the guest of that episode, founder of Waking Up, he shared some of the meditations that are offered on the app. These meditations were an eye-opener. They talked about things we take for granted, how we miss most obvious things in plain sight.
+Some meditations, like the one on "headlessness," have challenged me. I'm still early in the process, but there's so much to learn.
 
+My favorite part? The conversations section. Think of it as podcasts, with Sam Harris as the host and a range of knowledgeable guests discussing topics from health to consciousness.
+
+Waking Up divides its content into three parts: Theory, Practice, and Life. It's a comprehensive resource for caring for our minds.
+
+I invite you to join me on Waking Up's journey.
+
+[Start Your Free 30-Day Trial of Waking Up with Sam Harris](https://dynamic.wakingup.com/shareOpenAccess/SC07A7834)
+
+And if finances are tight, don't worry—you're still welcome. Waking Up offers a Scholarship program. 💞
+
+[Request a Scholarship](https://app.wakingup.com/scholarship)
+
+This is the Tim Ferris show which I was talking about. This is what you can expect in waking up.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hNcZ-qiy6yc?start=610" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-I didn't subscribe to Waking Up right away. Rhitik being Rhitik tried to fix the problem after it has occurred. It was struggle time a few months after I heard this. I decided it is time to give this app a try. And I jumped on.
-
-I have loved every bit of it!
-
-It features amazing meditations. Sam is the meditation teacher in the beginner series. And there are some other teachers as well, but I have not taken other courses yet.
-
-I have found some meditations hard, like meditation around headlessness, they ask you to look at the world and then look at self--for some reason I am not able to make the switch. Which means I am still early on in the process, and there is a lot to learn.
-
-There is a section around conversations, that is my favourite part. You can think of these as podcasts, with Sam Harris as host and a guest. These guests are informed people, talking about topics ranging from Health, Time Management, Productivity, Consciousness, the list goes on.
-
-They have divided the app into three parts, Theory, Practice, and Life.
-
-I think we all need some care of our beautiful minds.
-
-I invite you to join Waking Up with me.
-
-[Waking Up with Sam Harris - Free 30-Day Trial](https://dynamic.wakingup.com/shareOpenAccess/SC07A7834)
-
-If you can't afford the subscription, you are still welcome, we all need care for our minds. Waking up offers a Scholarship. 💞
-
-[Request for Scholarship](https://app.wakingup.com/scholarship).
-
