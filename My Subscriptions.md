@@ -15,23 +15,19 @@ The integrations offered by 1Password are fantastic! With a developer API to con
 
 ### Alternatives to Consider:
 
-- **LastPass**: While I used it when it was free, recent breaches have made me wary. Its integrations don't match up to 1Password's.
-    
+- **LastPass**: While I used it when it was free, recent breaches have made me wary. Also its integrations don't match up to 1Password's.
+
 - **Apple's Keychain**: Good if you're deep in the Apple ecosystem, but lacking in features like an authenticator and seamless browser integrations. Plus, it's technically "free" (if you don't count the premium you're paying for Apple devices). 🤫
-    
+
 
 ## Waking Up: Nurturing Your Mindfulness
 
-Picture this: It's evening in Gurgaon, the sun is setting, and I'm asking Alexa to play the latest episode of [The Tim Ferris Show](https://chatgpt.com/c/a7230c55-d57b-4cd6-9801-92ce1f036b3a). To my delight, Sam Harris, founder of Waking Up, is a guest. He shares insights into the meditations offered by the app, and they're truly enlightening.
+Picture this: It's evening in Gurgaon, the sun is setting, and I'm asking Alexa to play the latest episode of [The Tim Ferris Show](https://chatgpt.com/c/a7230c55-d57b-4cd6-9801-92ce1f036b3a). To my delight, Sam Harris, founder of Waking Up, is a guest. He shares insights into the meditations offered in the app Waking Up, and they're truly enlightening.
 
 I didn't immediately subscribe to Waking Up. Being my usual self, I tried to fix things only after they became a problem. Months later, as I was struggling mentally I finally decided to give the app a try—and I'm so glad I did.
 
+Being a few months into the journey of using Waking Up! 
 
-The meditations are incredible. Sam himself leads the beginner series, and while I haven't explored other courses yet, I'm thoroughly enjoying my journey.
-
-Some meditations, like the one on "headlessness," have challenged me. I'm still early in the process, but there's so much to learn.
-
-My favorite part? The conversations section. Think of it as podcasts, with Sam Harris as the host and a range of knowledgeable guests discussing topics from health to consciousness.
 
 Waking Up divides its content into three parts: Theory, Practice, and Life. It's a comprehensive resource for caring for our minds.
 
