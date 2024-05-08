@@ -30,7 +30,6 @@ After a few months of using Waking Up! I can confidently say it's one of the bes
 
 Unlike many meditation apps that emphasise focus, Waking Up! takes a more contemplative approach, guiding you towards a connection with the present moment with non-duality. Through its Metta techniques, it fosters a sense of love, not only for others but also for oneself. Moreover, it offers insightful conversations on topics like procrastination, goal-setting, financial planning, and various self-help subjects.
 
-
 I invite you to join me on Waking Up's journey.
 
 [Start Your Free 30-Day Trial of Waking Up with Sam Harris](https://dynamic.wakingup.com/shareOpenAccess/SC07A7834)
@@ -39,6 +38,6 @@ And if finances are tight, don't worry—you're still welcome. Waking Up offers 
 
 [Request a Scholarship](https://app.wakingup.com/scholarship)
 
-This is the Tim Ferris show which I was talking about. This is what you can expect in waking up.
+Listen to the Tim Ferris show which I was referring to earlier to get a glimpse of what is to be explored in the app.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hNcZ-qiy6yc?start=610" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
