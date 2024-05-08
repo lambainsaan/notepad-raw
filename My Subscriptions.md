@@ -26,7 +26,7 @@ Picture this: It's evening in Gurgaon, the sun is setting, and I'm asking Alexa 
 
 I didn't immediately subscribe to Waking Up. Being my usual self, I tried to fix things only after they became a problem. Months later, as I was struggling mentally I finally decided to give the app a try—and I'm so glad I did.
 
-Being a few months into the journey of using Waking Up! 
+Being a few months into the journey of using Waking Up! It is one of the best application I have subscribed to. Whenever I use waking up, my entire day ends up going in a positive direction. A lot of other meditation apps takes a focus approach to meditation where they present meditation as a tool for focusing. Waking up doesn't try to do that, it is more contemplative, it tries to connect you with the present with non-duality. It makes you feel love, not just for others and your enimies but for yourself as well using metta techniques. It has got amazing conversations around procastination, goal setting, finance planning and a lot of other self help things. 
 
 
 Waking Up divides its content into three parts: Theory, Practice, and Life. It's a comprehensive resource for caring for our minds.
