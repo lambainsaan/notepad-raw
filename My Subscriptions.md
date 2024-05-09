@@ -1,7 +1,7 @@
 ---
 title: Word of mouth
 created: 2023-06-11T22:32:24+05:30
-updated: 2024-05-08T23:33
+updated: 2024-05-09T21:22
 ---
 ## 1Password: Safeguarding Your Online Security
 
@@ -12,13 +12,6 @@ I used to be guilty of this myself until I stumbled upon [Have I Been Pwned](htt
 A few years later, I received a spam email containing an old breached password, with an attempt to blackmail me for bitcoins. Luckily, I had already moved on from that password by then. 🙃
 
 The integrations offered by 1Password are fantastic! With a developer API to connect and retrieve secrets from the password store, it's a convenient solution. Plus, there's no need to set up something like [Vault by HashiCorp](https://www.vaultproject.io/) for basic security needs.
-
-### Alternatives to Consider:
-
-- **LastPass**: While I used it when it was free, recent breaches have made me wary. Also its integrations don't match up to 1Password's.
-
-- **Apple's Keychain**: Good if you're deep in the Apple ecosystem, but lacking in features like an authenticator and seamless browser integrations. Plus, it's technically "free" (if you don't count the premium you're paying for Apple devices). 🤫
-
 
 ## Waking Up: Nurturing Your Mindfulness
 
