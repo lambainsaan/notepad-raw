@@ -1,7 +1,7 @@
 ---
 title: Music 🎧
 created: 2023-05-27T15:22:55+05:30
-updated: 2024-06-05T23:49:30-0700
+updated: 2024-06-05T23:52:09-0700
 ---
 I listen to music day in and out.
 
@@ -72,14 +72,11 @@ This is a slow song, the only one, just after pumping up so much energy into my 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3B9ATjy2oQQsNdcyDR59UY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## Focus
-
-### Work 
+## Chill 🏝️
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/xpvjPsme8_k?si=JbcG-haJEQToZAla" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### White Noise 🤍
-
+## Focus
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/0QKdqm5TX6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
