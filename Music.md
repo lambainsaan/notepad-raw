@@ -1,7 +1,7 @@
 ---
 title: Music 🎧
 created: 2023-05-27T15:22:55+05:30
-updated: 2024-06-05T23:52:09-0700
+updated: 2024-06-05T23:54:23-0700
 ---
 I listen to music day in and out.
 
@@ -68,9 +68,6 @@ This is a slow song, the only one, just after pumping up so much energy into my 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1rlyg0ha1nYWOnHWvIyyh2?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-## Indian 🕺🏻
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3B9ATjy2oQQsNdcyDR59UY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Chill 🏝️
 
