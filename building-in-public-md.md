@@ -1,7 +1,7 @@
 ---
 title: Building in Public 📢
 created: 2023-06-07T09:58:36+05:30
-updated: 2024-07-06T13:36
+updated: 2024-07-08T12:46:27+0530
 ---
 
 # [[Open Sourcing Governance|Open Sourcing Governance]]
