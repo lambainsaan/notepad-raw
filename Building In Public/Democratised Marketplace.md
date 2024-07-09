@@ -1,6 +1,6 @@
 ---
 created: 2024-07-06T13:35
-updated: 2024-07-08T20:46
+updated: 2024-07-09T11:21:17+0530
 ---
 An innovative marketplace app designed to seamlessly connect service providers with users in need of various services. Whether you need a handyman, a tutor, or someone to help you move, our app makes finding and booking trusted professionals easier than ever.
 
