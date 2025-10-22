@@ -52,7 +52,3 @@ Additionally I can be found at,
 
 [[TIL |Today I learned]]
 
-### Experiments
-
-- [Hello world static page](/index.html)
-
