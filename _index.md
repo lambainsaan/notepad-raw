@@ -7,7 +7,9 @@ updated: 2023-12-11T10:54:11+05:30
 
 Hello, Rhitik here! 👋🏼
 
-I am a Product Developer working w/ [CommerceIQ](https://commerceiq.ai/), helping e-commerce brands increase their market share. Previously, I have worked with [Rivet Labs](https://rivetlabs.io/) as their first employee, helping brands forecasting their financials. And I started it all with another early stage startup, [Skylark Drones](https://skylarkdrones.com/) as a full stack intern.
+I work with Hireup (https://hireup.com.au) as a Software Developer.
+
+Previously, I have worked with [CommerceIQ](https://commerceiq.ai/), [Rivet Labs](https://rivetlabs.io/), [Skylark Drones](https://skylarkdrones.com/).
 
 ---
 
@@ -48,5 +50,9 @@ Additionally I can be found at,
 
 [[what-am-i-listening-to|What am I listening to?]]
 
-[[publi;c/TIL |Today I learned]]
+[[TIL |Today I learned]]
+
+### Experiments
+
+- [Hello world static page](/index.html)
 
