@@ -1,7 +1,7 @@
 ---
 title: Music 🎧
 created: 2023-05-27T15:22:55+05:30
-updated: 2024-07-24T11:29:28+0530
+updated: 2024-07-26T09:03
 ---
 I listen to music day in and out.
 
@@ -26,55 +26,53 @@ Most energetic song I have heard. There are people hyping in the background + Pu
 
 
 
-**Jiggle Jiggle**
--_Louis Theroux_
+<details>
+  <summary>Story behind each anthem</summary>
 
-I love Louis Theroux. Plus I like this song. This is where I am in my journey right now. My money jiggle jiggle at the moment, but I would like for it to wiggle wiggle. It is a rap but a moral one, you don't come across such songs daily. The way Louis denied using the word bit*h in the song, speaks a lot to me about him. I like him and the song. Here is Louis explaining the song,
+  - **Harder, Better, Faster, Stronger** — _Daft Punk_
+    - Simple, powerful lyrics. A morning centering track that pumps energy and focus.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w37PVdQr5Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  - **Jogi** — _Panjabi MC_
+    - High-energy Punjabi beats with hype vocals — my go-to energy booster.
 
-**Imagine**
--_John Lennon_
+  - **Jiggle Jiggle** — _Louis Theroux_
+    - A fun, moral rap I enjoy; I like Louis Theroux and the playful vibe of this one.
+    - Louis explains the song here:
 
-Imagine is my all time favourite. Human civilisation has created divide between each other using boundaries, religions, what if these constructs didn't exist. This song opens up my imaginative thinking, and make me a better human. One unified planet, no difference between one human to the other. 💕
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/w37PVdQr5Ak" title="Louis Theroux on Jiggle Jiggle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**The Banjo Beat**
--_Hayasa G_
+  - **Imagine** — _John Lennon_
+    - My all-time favourite. Inspires imagining a world without the divides that separate us.
 
-A song which pumps up more energy into me. I need energy boosters at the start of the day, so that I can keep on going through the day. This is one of them.
+  - **The Banjo Beat** — _Hayasa G_
+    - An uplifting track that adds extra energy to the morning.
 
-**Stronger**
--_Kanye West_
+  - **Stronger** — _Kanye West_
+    - Reminds me of Daft Punk's anthem — I come for the beat more than the rap.
 
-More like a remix version of my first anthem, Harder, Better, Faster, Stronger. I like the beats. I just like the sound of this song. I don't really care much about the rap part by Ye.
+  - **Still D.R.E.** — _Dr. Dre & Snoop Dogg_
+    - A classic with a driving beat that's often played at shows — great for momentum.
 
-**Still D.R.E**
--_Snoop Dogg_
-
-This is a classic song played in a lot of EDM concerts, this song just brings more energy as I like the beat. Rap is not as per my taste, it is just the music that I love.
-
-
-**I've Grown**
--_Sofasound_
-
-This is a slow song, the only one, just after pumping up so much energy into my mind, I like to bring it down a notch so that I can sustain the booster I got from the other songs preceding this one. It is a nice soft song. Again I don't know the lyrics of this one. I listen this just for the music.
-
-
+  - **I've Grown** — _Sofasound_
+    - A slower, softer song I use to come down gently after the high-energy tracks.
 
 </details>
-
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1rlyg0ha1nYWOnHWvIyyh2?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-
 ## Chill 🏝️
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/xpvjPsme8_k?si=JbcG-haJEQToZAla" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+A selection for relaxing and unwinding.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/xpvjPsme8_k?si=JbcG-haJEQToZAla" title="Chill playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Focus
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/0QKdqm5TX6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Music to help me concentrate — instrumental and ambient mixes.
 
-<iframe  height="480" width="100%" src="https://www.youtube.com/embed/QkTIrTkrupc?si=qwfTl0r4MFTC94Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/0QKdqm5TX6c" title="Focus music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe height="480" width="100%" src="https://www.youtube.com/embed/QkTIrTkrupc?si=qwfTl0r4MFTC94Y0" title="Focus playlist 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/0QKdqm5TX6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
