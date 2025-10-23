@@ -10,19 +10,12 @@ I listen to music day in and out.
 
 The music that I start my day with.
 
-<details>
-  <summary>Story behind each song in the playlist</summary>
-  
   **Harder, Better, Faster, Stronger**
 -_Daft Punk_
 
 Simple, powerful lyrics. Helps me center in the morning. Focus on working harder. Better the day before, quickly churning out more and more work, and following all these will make me strong. This song just pumps up energy in me.
 
 
-**Jogi**
--_Panjabi MC_
-
-Most energetic song I have heard. There are people hyping in the background + Punjabi beats, abs perfect song. Again, a pumper for energy.
 
 
 
