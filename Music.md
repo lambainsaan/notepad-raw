@@ -1,7 +1,7 @@
 ---
 title: Favourite Music
 created: 2023-05-27T15:22:55+05:30
-updated: 2025-10-23T22:00
+updated: 2025-10-23T22:01
 ---
 I listen to music day in and out.
 
@@ -20,7 +20,6 @@ The music that I start my day with.
 
 - **Jiggle Jiggle** — _Louis Theroux_
   - A fun, moral rap I enjoy; I like Louis Theroux and the playful vibe of this one.
-  - Louis explains the song here:
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/w37PVdQr5Ak" title="Louis Theroux on Jiggle Jiggle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
