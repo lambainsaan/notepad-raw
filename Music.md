@@ -1,7 +1,7 @@
 ---
 title: Favourite Music
 created: 2023-05-27T15:22:55+05:30
-updated: 2024-07-26T09:03
+updated: 2025-10-23T22:00
 ---
 I listen to music day in and out.
 
