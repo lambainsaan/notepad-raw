@@ -11,7 +11,7 @@ updated: 2023-12-11T10:54:11+05:30
 
 ![[0 private/99 Assets/Untitled-2023-07-15-2336.svg]]
 
-![image](public/images/obsidian_vault_working.png)
+![image](images/obsidian_vault_working.png)
 
 
 ## Vault
