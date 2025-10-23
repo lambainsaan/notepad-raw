@@ -11,6 +11,7 @@ title: Strategic Thinking to Create the Life You Want
     <link rel="stylesheet" href="styles.css" />
     <!-- Chart.js UMD build -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.3.0/dist/chart.umd.min.js"></script>
+    <script type="module" src="./app.js"></script>
   </head>
   <body>
     <header>
@@ -56,6 +57,5 @@ title: Strategic Thinking to Create the Life You Want
     <footer>
       <small>Demo inspired by HBR: "Use Strategic Thinking to Create the Life You Want" — bubble sizes represent hours/week.</small>
     </footer>
-    <script type="module" src="./app.js"></script>
   </body>
 </html>
