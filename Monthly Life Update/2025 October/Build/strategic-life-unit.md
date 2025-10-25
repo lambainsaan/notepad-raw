@@ -1,6 +1,31 @@
----
 title: Strategic Thinking to Create the Life You Want
+
+## What is Strategic Thinking?
+
+Strategic thinking isn't reserved for corporations or high-stakes business moves; it’s a powerful approach to designing a more intentional, fulfilling life. The core of this mindset is about stepping back from the day-to-day rush and asking yourself fundamental questions: **What truly matters most to me? What do I want my life to look and feel like?**
+
+## Defining Your Own Success
+
+It starts by defining your own version of success—moving beyond external expectations or common measures like wealth or status, and instead tuning in to what would make your life rich and meaningful to you personally. This process involves self-reflection to clarify your deeper values, your authentic purpose, and a vision for where you want to go.
+
+## Practical Steps
+
+A strategic approach can be practical, too. Take stock of how you’re currently spending your time and energy. Map out the major “portfolios” or buckets in your life (like career, relationships, health, personal growth, creativity), and honestly assess both their importance and your current level of satisfaction. Often, this makes it much clearer where energy and attention are misaligned—maybe you’re putting lots of time into things you find unfulfilling, or neglecting areas you actually care about.
+
+From here, you can make deliberate choices: What needs more focus? What deserves to be dialed back? The goal isn’t about becoming rigid, but about giving yourself a compass—so your actions move you closer to a life you’ll look back on with pride and gratitude.
+
+## Reflective Prompts
+
+- What are your top 3 most important life areas?
+- Where is your satisfaction highest? Where is it lowest?
+- Are you spending time in ways that reflect your values?
+- What is one small change you could make this week?
+
 ---
+
+## Interactive Portfolio Chart
+
+Below is an interactive tool to help you map your own Strategic Life Portfolio. Enter your activities, rate their importance and satisfaction, and visualize your time allocation. (First-time users: Add a few activities and click "Render Graph" to see your chart. You can also load sample data.)
 
 <!doctype html>
 <html lang="en">
@@ -55,7 +80,15 @@ title: Strategic Thinking to Create the Life You Want
       </section>
     </main>
     <footer>
-      <small>Demo inspired by HBR: "Use Strategic Thinking to Create the Life You Want" — bubble sizes represent hours/week.</small>
-    </footer>
+        <small>Demo inspired by HBR: "Use Strategic Thinking to Create the Life You Want" — bubble sizes represent hours/week.</small>
+      </footer>
   </body>
 </html>
+
+
+---
+
+## Further Reading
+
+- [YouTube Video](https://www.youtube.com/watch?v=dbiNhAZlXZk)
+- [Harvard Business Review Article](https://hbr.org/2023/12/use-strategic-thinking-to-create-the-life-you-want)
