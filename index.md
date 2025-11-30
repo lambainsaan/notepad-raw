@@ -1,26 +1,10 @@
----
-title: 🪴 Rhitik's Notepad
-enableToc: false
-created: 2023-05-27T15:53:34+05:30
-updated: 2025-10-23T10:54:11+05:30
----
 
-Hello, Rhitik here! 👋🏼
 
-I work with [Hireup](https://hireup.com.au) as a Software Developer.
+[Music](./Music/index.md)
 
-Previously, I have worked with [CommerceIQ](https://commerceiq.ai/), [Rivet Labs](https://rivetlabs.io/), [Skylark Drones](https://skylarkdrones.com/).
 
----
+[Notepad](./Notepad/index.md)
 
-# Contact
 
-email: rhitikbhatt [at] gmail [dot] com
+[Trips](./Trips/index.md)
 
-Additionally I can be found at,
-
-[Github](https://github.com/lambainsaan)
-
-[X](https://x.com/lambainsaan)
-
-[LinkedIn](https://www.linkedin.com/in/rhitik-bhatt/)
