@@ -7,8 +7,8 @@ I work with computers.
 
 You can reach out to me at rhitikbhatt [at] gmail [dot] com.
 
-[Music](./Music/index.md)
+[Music](./Notepad/Music.md)
 
 
-[Trips](./Trips/index.md)
+[Trips](./Notepad/Trips.md)
 
