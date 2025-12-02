@@ -1,5 +1,5 @@
 ---
-modified: "2025-12-01T18:53:00.000Z"
+modified: "2025-12-01T19:40:00.000Z"
 created: "2025-12-01T18:44:00.000Z"
 name: "Music"
 ---
@@ -24,7 +24,8 @@ The music that I start my day with.
 
 -  **Jiggle Jiggle**  —  *Louis Theroux* 
     - A fun, moral rap I enjoy; I like Louis Theroux and the playful vibe of this one.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w37PVdQr5Ak" title="Louis Theroux on Jiggle Jiggle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/w37PVdQr5Ak" title="Louis Theroux on Jiggle Jiggle"frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -  **Imagine**  —  *John Lennon* 
     - My all-time favourite. Inspires imagining a world without the divides that separate us.
