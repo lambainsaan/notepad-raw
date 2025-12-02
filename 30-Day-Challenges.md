@@ -1,12 +1,13 @@
 ---
-modified: "2025-12-02T19:03:00.000Z"
+title: "30 Day Challenges"
+modified: "2025-12-02T19:21:00.000Z"
 created: "2025-12-02T18:55:00.000Z"
 name: "30 Day Challenges"
 ---
 
 
 
-Hi there, back in the day. I used to take 30 day challenges and it has been a while since I've taken one. Life has been pretty monotonous these days, and I remember how exciting life used to be when I used to take these challenges.
+Hi there, back in the day. I used to take 30 day challenges and it has been a while since I've taken one. Life has been pretty monotonous these days, and I remember how exciting life used to be when I used to take these challenges. And so time to bring it back into the life! 🙂
 
 Idea is simple, add something that you wanted to add in your life, and subtract something that you want to get rid of from your life.
 
@@ -20,11 +21,10 @@ What got me taking 30 day challenges?
 </details>
 
 
-# December 2025
+## 30 Day Challenges!
+
+| Name |
+| --- |
+| December 2025 |
 
 
-Add: Workout daily for 30 minutes.
-
-Subtract: Social media.
-
-We will see how I fare in 30 days.
