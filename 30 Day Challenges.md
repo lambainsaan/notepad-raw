@@ -1,6 +1,6 @@
 ---
 title: "30 Day Challenges"
-modified: "2025-12-03T03:19:00.000Z"
+modified: "2025-12-03T03:40:00.000Z"
 created: "2025-12-02T18:55:00.000Z"
 name: "30 Day Challenges"
 ---
@@ -24,8 +24,7 @@ What got me taking 30 day challenges?
 ## Challenge Log
 
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
 | Month | Add | Subtract |
+| --- | --- | --- |
 | December 2025 | 30 minutes exercise | Social Media |
 
