@@ -21,10 +21,10 @@ This is just a scratchpad for my ideas, thoughts, actions.
 ## Want to know me better?
 
 
-This is the [Music](./Music/Music.md) I listen to.
+This is the [Music](./Music) I listen to.
 
 I have been on a few [Trips](./Trips.md), maybe you can have a look at some of the pictures?
 
-These are my [Opinions](./Opinions/Opinions.md)  you can read through them. Nothing set in stone, I love learning from opinions of others.
+These are my [Opinions](./Opinions)  you can read through them. Nothing set in stone, I love learning from opinions of others.
 
-And I want to [Build](./Build/Build.md) something bigger than myself, tracking some of the notes here.
+And I want to [Build](./Build) something bigger than myself, tracking some of the notes here.
