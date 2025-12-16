@@ -1,5 +1,5 @@
 ---
-modified: "2025-12-16T13:45:00.000Z"
+modified: "2025-12-16T14:26:00.000Z"
 created: "2025-12-16T13:13:00.000Z"
 name: "The Need for a Border‑Free Society"
 draft: false
@@ -29,4 +29,6 @@ Borders — physical, social, economic, symbolic — shape what we see and who w
 
 I love John Lennon’s Imagine because it asks a simple question: what if compassion were the default? If enough of us teach, model, and build for connection, the lines between religion, nationality, and wealth will thin. The world will feel more unified, more fair, and safer for everyone.
 
-Start today: choose generosity over guarding, curiosity over certainty, and proximity over distance. We can build a border‑free society — one neighbour, one conversation, one cooperative project at a time.
+<iframe width="100%" height="480" src="https://www.youtube-nocookie.com/embed/YkgkThdzX-8?si=Z2vmeMeP0bz4LOTx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I hope we all choose generosity over guarding, curiosity over certainty, and proximity over distance. We can build a border‑free society — one neighbour, one conversation, one cooperative project at a time.
