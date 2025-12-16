@@ -5,7 +5,6 @@ name: "Trips"
 draft: false
 subitem: []
 parent_item: ["2bc045a6-abed-800d-9ab8-d31b21a65588"]
-tags: ""
 ---
 
 
