@@ -1,6 +1,6 @@
 ---
 title: "Notepad"
-modified: "2025-12-16T16:15:00.000Z"
+modified: "2025-12-16T16:54:00.000Z"
 created: "2025-12-01T18:36:00.000Z"
 name: "index"
 draft: false
@@ -12,7 +12,7 @@ parent_item: []
 
 Hi there Rhitik this side. 🙋🏽‍♂️
 
-I work with computers, and I am currently building a platform for people who are who are seeking support for their disability, and making them empowered.
+I work with computers, and I am currently building a platform for people who are seeking support for their disability, and making them empowered.
 
 You can reach out to me at rhitikbhatt [at] gmail [dot] com.
 
