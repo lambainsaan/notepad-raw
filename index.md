@@ -1,6 +1,6 @@
 ---
 title: "Notepad"
-modified: "2025-12-16T14:58:00.000Z"
+modified: "2025-12-16T16:04:00.000Z"
 created: "2025-12-01T18:36:00.000Z"
 name: "index"
 draft: false
@@ -25,6 +25,6 @@ This is the [Music](./Music/Music.md) I listen to.
 
 I have been on a few [Trips](./Trips.md), maybe you can have a look at some of the pictures?
 
-These are my [Untitled](https://www.notion.so/2ca045a6abed8078a75bdd471caf9a35) you can read through them. Nothing set in stone, I love learning from opinions of others.
+These are my [Opinions](./Opinions/Opinions.md)  you can read through them. Nothing set in stone, I love learning from opinions of others.
 
-And I want to build something [bigger than myself, for the world](/2c7045a6abed803d98d3c6fc72b4b950) trying to create a repository of such projects.
+And I want to [Building something bigger than myself](./Building something bigger than myself/Building something bigger than myself.md), tracking some of the notes here.
