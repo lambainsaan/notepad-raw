@@ -1,5 +1,5 @@
 ---
-modified: "2025-12-16T16:08:00.000Z"
+modified: "2025-12-16T16:14:00.000Z"
 created: "2025-12-16T16:07:00.000Z"
 name: "Anthems"
 draft: false
@@ -41,3 +41,5 @@ The music that I start my day with.
 
 -  **I've Grown**  —  *Sofasound* 
     - A slower, softer song I use to come down gently after the high-energy tracks.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1rlyg0ha1nYWOnHWvIyyh2?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -1,6 +1,6 @@
 ---
 title: "Notepad"
-modified: "2025-12-16T16:04:00.000Z"
+modified: "2025-12-16T16:15:00.000Z"
 created: "2025-12-01T18:36:00.000Z"
 name: "index"
 draft: false
@@ -27,4 +27,4 @@ I have been on a few [Trips](./Trips.md), maybe you can have a look at some of t
 
 These are my [Opinions](./Opinions/Opinions.md)  you can read through them. Nothing set in stone, I love learning from opinions of others.
 
-And I want to [Building something bigger than myself](./Building something bigger than myself/Building something bigger than myself.md), tracking some of the notes here.
+And I want to [Build](./Build/Build.md) something bigger than myself, tracking some of the notes here.
