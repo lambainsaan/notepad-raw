@@ -2,6 +2,10 @@
 modified: "2025-12-12T16:20:00.000Z"
 created: "2025-12-01T18:46:00.000Z"
 name: "Trips"
+draft: false
+subitem: []
+parent_item: ["2bc045a6-abed-800d-9ab8-d31b21a65588"]
+tags: ""
 ---
 
 
