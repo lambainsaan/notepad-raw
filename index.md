@@ -1,6 +1,6 @@
 ---
 title: "Notepad"
-modified: "2025-12-16T13:02:00.000Z"
+modified: "2025-12-16T14:58:00.000Z"
 created: "2025-12-01T18:36:00.000Z"
 name: "index"
 draft: false
@@ -12,16 +12,19 @@ parent_item: []
 
 Hi there Rhitik this side. 🙋🏽‍♂️
 
-<details>
-<summary>
-I work with computers.
-</summary>
-
-![Image](https://media1.giphy.com/media/v1.Y2lkPTc5NDFmZGM2czNyMTFoZHA0MzQ0cmQ5dXE3dTF4cWNkYjN3ZHNmaXozYWdmYmdkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif)
-
-
-
-</details>
-
+I work with computers, and I am currently building a platform for people who are who are seeking support for their disability, and making them empowered.
 
 You can reach out to me at rhitikbhatt [at] gmail [dot] com.
+
+This is just a scratchpad for my ideas, thoughts, actions.
+
+## Want to know me better?
+
+
+This is the [Music](./2bc045a6-abed-8044-b264-df6b271fdbf1.md) I listen to.
+
+I have been on a few [Trips](./Trips/2bc045a6-abed-80e0-92c8-fa89784bb574.md), maybe you can have a look at some of the pictures?
+
+These are my [Untitled](https://www.notion.so/2ca045a6abed8078a75bdd471caf9a35) you can read through them. Nothing set in stone, I love learning from opinions of others.
+
+And I want to build something [bigger than myself, for the world](/2c7045a6abed803d98d3c6fc72b4b950) trying to create a repository of such projects.

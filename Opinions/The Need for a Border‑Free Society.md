@@ -1,5 +1,5 @@
 ---
-modified: "2025-12-16T14:31:00.000Z"
+modified: "2025-12-16T14:51:00.000Z"
 created: "2025-12-16T13:13:00.000Z"
 name: "The Need for a Border‑Free Society"
 draft: false
@@ -16,7 +16,7 @@ We separate ourselves for many reasons: history, fear, convenience, politics. Ov
 
 Borders — physical, social, economic, symbolic — shape what we see and who we trust. Segregated neighbourhoods, homogeneous schools, and exclusive institutions make it easy to ignore other people’s lives. That distance reduces empathy, normalises stereotypes, and erodes the everyday contact that prevents radicalisation and violence.
 
-##  **Concrete steps to begin** 
+## How we can fix the systemic issue?
 
 
 -  **Teach empathy early:**  Integrate social and moral learning into school curricula: listening exercises, perspective-taking, and guided conversations across difference.
@@ -27,7 +27,7 @@ Borders — physical, social, economic, symbolic — shape what we see and who w
 ##  **A hopeful imagination** 
 
 
-I love John Lennon’s Imagine because it asks a simple question: what if compassion were the default? If enough of us teach, model, and build for connection, the lines between religion, nationality, and wealth will thin. The world will feel more unified, more fair, and safer for everyone.
+I love John Lennon’s Imagine because it asks a simple question: what if borders didn’t exist? If enough of us teach, model, and build for connection, the lines between religion, nationality, and wealth will thin. The world will feel more unified, more fair, and safer for everyone.
 
 <iframe width="100%" height="480"  src="https://www.youtube-nocookie.com/embed/YkgkThdzX-8?si=Z2vmeMeP0bz4LOTx&amp%3Bstart=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
