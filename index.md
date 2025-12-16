@@ -21,9 +21,9 @@ This is just a scratchpad for my ideas, thoughts, actions.
 ## Want to know me better?
 
 
-This is the [Music](./2bc045a6-abed-8044-b264-df6b271fdbf1.md) I listen to.
+This is the [Music](./Music/Music.md) I listen to.
 
-I have been on a few [Trips](./Trips/2bc045a6-abed-80e0-92c8-fa89784bb574.md), maybe you can have a look at some of the pictures?
+I have been on a few [Trips](./Trips.md), maybe you can have a look at some of the pictures?
 
 These are my [Untitled](https://www.notion.so/2ca045a6abed8078a75bdd471caf9a35) you can read through them. Nothing set in stone, I love learning from opinions of others.
 
