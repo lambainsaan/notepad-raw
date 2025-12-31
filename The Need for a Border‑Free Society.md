@@ -4,7 +4,7 @@ created: "2025-12-16T13:13:00.000Z"
 name: "The Need for a Border‑Free Society"
 draft: false
 subitem: []
-parent_item: ["2cb045a6-abed-80da-9c0b-f58fdf6a2d81"]
+parent_item: []
 tags: ["public-policy","opinion","values"]
 ---
 
