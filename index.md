@@ -21,6 +21,6 @@ This is just a scratchpad for my ideas, thoughts, actions.
 # Quick Links
 
 
-This is the [Music](./Music) I am listening to.
+This is the [Music](https://app.notion.com/p/2bc045a6abed8044b264df6b271fdbf1) I am listening to.
 
-Tinkering with some ideas at [Build](./Build).
+Tinkering with some ideas at [Build](https://app.notion.com/p/2c7045a6abed803d98d3c6fc72b4b950).
